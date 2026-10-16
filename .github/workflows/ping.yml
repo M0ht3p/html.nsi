@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping site
-        run: curl -fsS https://projet2-nsi.github.io/ > /dev/null
+        run: curl -fsS https://m0ht3p.github.io/html.nsi/ > /dev/null
